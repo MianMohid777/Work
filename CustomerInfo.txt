@@ -1,0 +1,23 @@
+1000,3520200000001,KAMI,PAK-ARAB,03000000000,Domestic,Single-Phase,28/5/2022,750,0                  
+1001,3520200000002,KAMI,PAK-ARAB,03000000001,Domestic,Single-Phase,28/5/2022,750,0                 
+1002,3520200000003,KAMI,PAK-ARAB,03000000002,Domestic,Single-Phase,28/5/2022,750,0                   
+1003,3520200000004,KAMI,PAK-ARAB,03000000003,Commercial,Single-Phase,28/5/2022,750,0                    
+1004,3502000000005,KAMI,PAK-ARAB,03000000004,Domestic,Single-Phase,28/5/2022,750,0               
+1005,3520200000006,KAMI,PAK-ARAB,03000000005,Domestic,Single-Phase,28/5/2022,750,0                   
+1006,3520999999999,KAMI,PAK-ARAB,03000000006,Domestic,Single-Phase,28/5/2022,750,0                  
+1007,3520200000007,KAMI,PAK-ARAB,03000000007,Domestic,Single-Phase,28/5/2022,750,0             
+1008,3522000000008,KAMI,PAK-ARAB,03000000008,Domestic,Single-Phase,28/5/2022,750,0                  
+1009,3520200000009,KAMI,PAK-ARAB,03000000009,Commercial,Three-Phase,28/5/2022,750,50                   
+1010,3502000000010,KAMI,PAK-ARAB,03000000010,Domestic,Single-Phase,28/5/2022,750,0                  
+1011,3520274931365,Ahmed Malik,Dharampura,03000000009,Domestic,Single-Phase,29/5/2022,0,0                 
+1012,3520274931365,Khakan,Gujranwala,03789456559,Commercial,Three-Phase,29/5/2022,0,0                
+1013,3520245678319,Umer,Faislabad,03078461595,Commercial,Single-Phase,30/5/2022,0,0                 
+1014,3520274888888,Komrraan Sowrwaor,Lahore,03279517530,Domestic,Three-Phase,28/7/2022,0,0               
+1015,3310044591755,umer farooq,lhr,03234243566,Domestic,Three-Phase,12/5/2022,0,0                   
+1016,3520232419279,hassan tariq,160 m block sabzazar,03317804456,Commercial,Three-Phase,30/5/2022,0,0                 
+1017,3520274931365,Mian,LHR,03244987550,Domestic,Three-Phase,1/6/2022,250,100                       
+1018,3530200000001,Khakan,HM,11111111111,Domestic,Three-Phase,1/6/2022,0,0                       
+1019,3520200000002,Mian Mohid,LHR,11111100223,Commercial,Three-Phase,1/6/2022,0,0              
+1020,3520200000002,IDK,IDK,77777564159,Commercial,Single-Phase,1/6/2022,0,0                    
+1021,3520212300001,Kami,g,11111000000,Domestic,Single-Phase,1/6/2022,0,0                
+1022,3521230000001,asdfr,awsedrf,12345678909,Domestic,Single-Phase,3/6/2022,0,0         

@@ -1,0 +1,18 @@
+				
+                                        Welcome to LESCO Billing System 
+
+                                Made by the collective efforts of
+					
+				Mian Mohid Jillani
+
+				Mian Kamran Sarwar
+
+				Umer Farooq
+
+				Ahmad x3
+
+      We have made a system which is accessible by both text files and other type of entities.
+
+                               Thank You
+
+Press any key to countinue
