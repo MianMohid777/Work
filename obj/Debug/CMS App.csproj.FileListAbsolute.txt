@@ -1,0 +1,15 @@
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\bin\Debug\CMS App.exe.config
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\bin\Debug\CMS App.exe
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.csproj.AssemblyReference.cache
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS_App.New_Crop.resources
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS_App.Register.resources
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS_App.LogIn.resources
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS_App.HomePage1.resources
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS_App.Properties.Resources.resources
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.csproj.GenerateResource.cache
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.exe
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\CMS App.pdb
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\bin\Debug\CMS App.pdb
+C:\Users\Shahzad Jillani\OneDrive - FAST National University\Desktop\CMS App\obj\Debug\WindowsFormsApp1.Current_farm.resources
